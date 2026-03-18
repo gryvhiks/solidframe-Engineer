@@ -182,7 +182,7 @@ export default function App() {
             </div>
             <div className="grid grid-cols-2 gap-4">
               <div className="space-y-4">
-                <img src="https://images.unsplash.com/photo-1541888946425-d81bb19480c5?auto=format&fit=crop&q=80&w=500" alt="Construction Site" className="rounded-2xl w-full aspect-square object-cover" referrerPolicy="no-referrer" />
+                <img src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&q=80&w=500" alt="Construction Site" className="rounded-2xl w-full aspect-square object-cover" referrerPolicy="no-referrer" />
                 <div className="bg-sage-600 p-8 rounded-2xl text-white">
                   <p className="text-4xl font-bold mb-2">12+</p>
                   <p className="text-sm opacity-80 uppercase tracking-wider font-semibold">Taon ng Karanasan</p>
@@ -388,7 +388,7 @@ export default function App() {
               </div>
               <div className="w-48 h-48 rounded-2xl overflow-hidden border-4 border-white shadow-lg">
                 <img 
-                  src="https://picsum.photos/seed/engineer/400/400" 
+                  src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=400&h=400" 
                   alt="Karla Paula M. San Angel" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
@@ -537,7 +537,7 @@ export default function App() {
                   </div>
                   <div>
                     <p className="text-sm text-stone-400">Tumawag sa amin sa</p>
-                    <p className="text-lg font-medium">+63 (02) 888-SF-ENG</p>
+                    <p className="text-lg font-medium">+639621126653</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
@@ -546,7 +546,7 @@ export default function App() {
                   </div>
                   <div>
                     <p className="text-sm text-stone-400">Bisitahin ang aming opisina</p>
-                    <p className="text-lg font-medium">Metro Manila, Philippines</p>
+                    <p className="text-lg font-medium">Dinalupihan, Bataan</p>
                   </div>
                 </div>
               </div>
